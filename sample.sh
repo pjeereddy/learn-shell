@@ -1,4 +1,4 @@
 ls
-ls-ltr
+ls -ltr
 uname
-uname-a
+uname -a
