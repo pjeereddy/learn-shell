@@ -1,2 +1,2 @@
 # learn-shell
-How to perform shell scripting
+How to perform shell script
