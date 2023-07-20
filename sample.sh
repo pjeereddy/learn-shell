@@ -1,4 +1,4 @@
 ls
-ls-lt
+ls-ltr
 uname
 uname-a
